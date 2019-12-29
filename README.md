@@ -1,6 +1,6 @@
 # Nexter ⛪🏡🏠
 
-A fictional company that provides housing services.
+A fictional company that provides housing 🏡 services.
 
 Built using CSS3, Sass, Flexbox, and Grid.
 
